@@ -7,9 +7,9 @@ Tras escalar los datos con **StandardScaler**, se evaluó el modelo con `k = 3`,
 
 ## Resultados  
 
-El **Cluster 0** muestra la especie *Iris-versicolor*, donde se agruparon 39 registros. Por otro lado, el **Cluster 1** muestra en su mayoría a la especie *Iris-setosa*, con un total de 48 registros. Y, el **Cluster 2** se vinculó con la especie *Iris-virginica*, agrupando 36 registros. Estos resultados muestran que el algoritmo pudo separar de manera razonable a las especies, capturando las diferencias en sus medidas de sépalos y pétalos.  
+El **Cluster 0** agrupa la especie *Iris-versicolor*, donde obtuvo 39 registros. El **Cluster 1** agrupa a la especie *Iris-setosa*, con 48 registros. Y, el **Cluster 2** agrupa la especie *Iris-virginica*, con 36 registros. Estos resultados muestran que el algoritmo pudo separar de manera razonable a las especies, capturando las diferencias en sus medidas de sépalos y pétalos.  
 
-Y tambien destacar que la segmentación **no fue 100% precisa**, ya que no todas las especies quedaron registradas de forma exclusiva en cada cluster. Algunas flores quedaron clasificadas en clusters distintos a su especie original.
+Tambien cabe destacar que la segmentación **no fue 100% precisa**, ya que no todas las especies quedaron registradas de forma exclusiva en cada cluster. Algunas flores quedaron clasificadas en clusters distintos a su especie original.
 
 ## Conclusión  
 
